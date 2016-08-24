@@ -1,5 +1,7 @@
-Garrett Swann
-Sean Pimentel
+Grrett Swann,
+
+Sean Pimentel,
+
 Daniel Swearingen
 
 ##Hello_Jenkins
